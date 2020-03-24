@@ -6,6 +6,7 @@ namespace TryCatch
 {
     class Program
     {
+        // Main
         static void Main(string[] args)
         {
             // Create a few contacts
